@@ -1,0 +1,31 @@
+----- Data source: 100 randomly generated numbers ------
+    24    95    98    46     4    96    82    82    90    24
+     1    17    19    35    62    70    82    85    64    19
+    24     5    18    22    56    36    13    99    52    74
+    27    27    20    24    73    76    19     6    57    61
+    29    58    77    99    92    90    69    26    74    84
+    96    98    88    13    19    95   100    83    93    51
+     8    19    78    28    94     2    55    65    59    11
+    25    87    68    53    86    12    94     6    37    67
+    89    32    16    28    96    86    74    95    21    66
+    45    80    36    74     7    29    27    13    93    85
+
+----- 50 random numbers to be searched -------
+    78   100   100    72    26    44    87    98     1    54
+    16    22    32    27    66    21    79    47    71    37
+     5    64    89     5    50    85    62    93    58    31
+    14    35    31    13     7    56     8    45    54     9
+    98    21    30    81    99    48     1    78    46    23
+
+
+Conducting linear search on unsorted data source ...
+Successful searches: 68.00%
+
+Conducting binary search on unsorted data source ...
+Successful searches: 4.00%
+
+Conducting linear search on sorted data source ...
+Successful searches: 68.00%
+
+Conducting binary search on sorted data source ...
+Successful searches: 68.00%

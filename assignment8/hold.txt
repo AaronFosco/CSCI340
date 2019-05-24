@@ -1,0 +1,32 @@
+HT::HT(int size)
+{
+
+
+}
+
+HT::~HT()
+{
+
+
+}
+
+bool HT::insert(const Entry& ent)
+{
+
+}
+
+int HT::search(const string& key)
+{
+
+
+}
+
+bool HT::remove(const string& key)
+{
+
+}
+
+void print()
+{
+
+}

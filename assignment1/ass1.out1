@@ -1,0 +1,44 @@
+------ Data source: 132 unique random numbers ------
+  80  81  67  20 187  90  53  13
+ 103 100  83  11 198 124 171  52
+  68   2 130 172  50  65 102  38
+ 117 196 127 140  22  42  99 120
+   9 158 115 192 169  43 186  69
+ 176  55 182  15 143  37  23 151
+  41 164  48  77 183   1  54  79
+   5 199  93 141  33 150 162  56
+ 110  24   6 173  44 154  78  85
+ 112 200 144 166  72 195 126  35
+  64 193 177  47 131  94  88 137
+  96  95 160 122 111 165 108  49
+ 184   4 116  66 138   8 142  16
+  63 148  57  70 170  21  59 159
+ 139  75  58 174 180  25 152 132
+ 121 194  82 190  71 181  97  10
+ 106  39 178  46
+
+------ 100 random numbers to be searched: ------
+  66 158  40 148  80 160 146 112
+ 154 128   2 166 180 177 183 179
+   9  78  83  24 107 162  54 149
+  84 134   9 151 200 179 197  18
+ 137  37 117 168 196  62  79 102
+ 142  32  67 121   8   1  51 168
+  78  85 191 136  46 196  85  81
+ 130  45  31  81  23 180  98 159
+  16 166 126 163  28 156  64 121
+ 187  82  41 147  83  44 114 112
+ 128 105  48 126  52  84 158 181
+ 128 141  62 102 120 111  61  87
+  77 138  49  56
+
+Linear search: 67 numbers are found. The average number of comparisons in each search: 85.69
+
+Binary search: 3 numbers are found. The average number of comparisons in each search: 7.08
+
+------- numbers in data source are now sorted ---------
+
+Linear search: 67 numbers are found. The average number of comparisons in each search: 89.02
+
+Binary search: 67 numbers are found. The average number of comparisons in each search: 6.47
+
